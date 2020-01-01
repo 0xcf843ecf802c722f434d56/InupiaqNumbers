@@ -4,3 +4,29 @@ A font for displaying [Inupiaq numerals](https://en.wikipedia.org/wiki/Kaktovik_
 
 Font created with [FontForge](https://github.com/fontforge/fontforge); included are files used to create the font if you want to modify it for your own use.
 
+Characters used are U+E5A0 to U+E5B3, starting at `1` through `19` then `0`.
+
+| Numeral | Denary |
+| ------- | ------ |
+|  | 0 |
+|  | 1 |
+|  | 2 |
+|  | 3 |
+|  | 4 |
+|  | 5 |
+|  | 6 |
+|  | 7 |
+|  | 8 |
+|  | 9 |
+|  | 10 |
+|  | 11 |
+|  | 12 |
+|  | 13 |
+|  | 14 |
+|  | 15 |
+|  | 16 |
+|  | 17 |
+|  | 18 |
+|  | 19 |
+
+If it's more convinient to copy & paste, this is 0 through 19 in a sequence: ``
