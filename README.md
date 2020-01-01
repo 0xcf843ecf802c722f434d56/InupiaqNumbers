@@ -4,6 +4,8 @@ A font for displaying [Inupiaq numerals](https://en.wikipedia.org/wiki/Kaktovik_
 
 Font created with [FontForge](https://github.com/fontforge/fontforge); included are files used to create the font if you want to modify it for your own use.
 
+Note: TrueType fonts require integer dimensions. `InupiaqNumbers.sfd` is before casting; `InupiaqNumbersInt.sfd` is after.
+
 Characters used are U+E5A0 to U+E5B3, starting at `1` through `19` then `0`.
 
 | Numeral | Denary |
